@@ -22,6 +22,7 @@ Sou um profissional que une a sensibilidade do **Design de Experiência** com a 
 ![UX/UI Design](https://img.shields.io/badge/UX/UI%20Design-FF61F6?style=for-the-badge)
 
 ### 💻 Desenvolvimento Front-end
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
