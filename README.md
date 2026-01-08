@@ -9,9 +9,9 @@
 ## 🧐 Sobre Mim
 Atualmente
 
-- 🎨 **UX/UI Design:** Foco em Design Systems, Prototipagem no Figma e Acessibilidade.
+- 🎨 **UX/UI Design:** Prototipagem no Figma, Acessibilidade sempre buscando layouts intuitivos.
 - 💻 **Front-end:** Desenvolvimento com HTML5, Sass, JavaScript e Bootstrap.
-- 🚀 **Objetivo:** Criar interfaces que convertem e encantam.
+- 🚀 **Objetivo:** Criar interfaces que convertem e e agradam.
 
 ---
 
