@@ -7,7 +7,7 @@
 ---
 
 ## 🧐 Sobre Mim
-Atualmente
+Trabalhei durante 5 anos em uma empresa chamada OMNI-Electronica, onde atuei de forma multidisciplinar unindo Design e Tecnologia. Minha trajetória permitiu transitar desde a criação de componentes gráficos e roteirização de conteúdo até o desenvolvimento de produtos digitais. Como Front-end Developer, foquei na criação de wireframes e protótipos de alta fidelidade, implementando interfaces modernas com React, JavaScript e Sass/SCSS, sempre pautado pelas melhores práticas de UI/UX
 
 - 🎨 **UX/UI Design:** Prototipagem no Figma, Acessibilidade sempre buscando layouts intuitivos.
 - 💻 **Front-end:** Desenvolvimento com HTML5, Sass, JavaScript e Bootstrap.
