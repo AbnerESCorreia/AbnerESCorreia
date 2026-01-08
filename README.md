@@ -7,7 +7,7 @@
 ---
 
 ## 🧐 Sobre Mim
-Sou um profissional que une a sensibilidade do **Design de Experiência** com a precisão do **Desenvolvimento Front-end**. Acredito que a tecnologia deve ser acessível, funcional e esteticamente agradável.
+Atualmente
 
 - 🎨 **UX/UI Design:** Foco em Design Systems, Prototipagem no Figma e Acessibilidade.
 - 💻 **Front-end:** Desenvolvimento com HTML5, Sass, JavaScript e Bootstrap.
@@ -15,7 +15,7 @@ Sou um profissional que une a sensibilidade do **Design de Experiência** com a 
 
 ---
 
-## 🛠 Conjunto de tecnologias
+## 🛠 Tecnologias
 
 ### 🎨 Design e Arquitetura
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
