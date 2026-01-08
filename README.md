@@ -1,4 +1,4 @@
-# Olá, eu sou o Abner Correia 👋
+# Olá, meu nome é Abner Correia e seja bem-vindo ao meu git.
 
 ### UX/UI Designer & Desenvolvedor Front-end
 
